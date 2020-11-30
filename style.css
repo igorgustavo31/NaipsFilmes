@@ -1,0 +1,68 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMIUPTYRestH-CZk91sHFOMvyxGhTAunAQrQ&usqp=CAU");
+    color:inherit;
+}
+    
+.logo {
+    height: 40x;
+    width: 40px;
+}
+
+h2{
+    color:  rgb(208, 208, 211);
+}
+h6{
+    color: black;
+}
+.card-film {
+    min-height: 450px;
+}
+.text-muted {
+    color: black!important;
+}
+
+.card-film .card-body{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: rgb(144, 224, 204);
+    
+}
+.cor{
+    background:black;
+}
+
+.navbar-light .navbar-brand{
+color:rgb(144, 224, 204);
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 0.5cm;
+}
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color :rgb(248, 244, 244);
+}
+/* cor do botões */
+.btn-primary {
+    background-color:rgb(31, 29, 29);
+    border-color:  #FFF0F5;
+
+}
+
+.page-item.active .page-link { 
+    background-color:rgb(31, 29, 29);;
+    border-color: #FFF0F5;
+}
+
+.footer {
+    background-color: black;
+    color: rgb(144, 224, 204);
+}
+.footer a{
+    color: rgb(144, 224, 204);
+    text-decoration: none;
+    font-size: 1.25em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
